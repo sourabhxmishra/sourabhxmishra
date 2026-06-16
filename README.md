@@ -8,7 +8,7 @@
   <a href="https://www.sourabhxmishra.com"><img src="https://img.shields.io/badge/Portfolio-sourabhxmishra.com-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/somi96500"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:somidataengineer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=somi-rpm&style=for-the-badge&color=2563eb" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sourabhxmishra&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
 
 ---
@@ -46,11 +46,11 @@ I'm a **Data Engineer** with 5+ years of hands-on experience designing, developi
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**Developer Portfolio**](https://github.com/somi-rpm/sourabh-portfolio) · [live](https://www.sourabhxmishra.com) | React · TypeScript · Tailwind · Vercel | My personal portfolio — a fast single-page app with a serverless backend |
-| [**DevOps Insights Automation**](https://github.com/somi-rpm) | Azure SQL · Python · Function App · WIQL | Automated Azure DevOps backlog reporting + CI/CD that cut deploy time by 40% |
-| [**Somi Browser**](https://github.com/somi-rpm/somi_browser) | Python · PyQt5 | A lightweight desktop web browser with a clean, tabbed GUI |
-| [**Bhoot Escape Game**](https://github.com/somi-rpm/Bhoot_Escape_Game) | Python · pygame | A 2D escape game optimized for lower-end devices |
-| [**Go CRUD API**](https://github.com/somi-rpm/Go_CRUD_API) | Go · MySQL | A RESTful CRUD API built in Golang |
+| [**Developer Portfolio**](https://github.com/sourabhxmishra/sourabh-portfolio) · [live](https://www.sourabhxmishra.com) | React · TypeScript · Tailwind · Vercel | My personal portfolio — a fast single-page app with a serverless backend |
+| [**DevOps Insights Automation**](https://github.com/sourabhxmishra) | Azure SQL · Python · Function App · WIQL | Automated Azure DevOps backlog reporting + CI/CD that cut deploy time by 40% |
+| [**Somi Browser**](https://github.com/sourabhxmishra/somi_browser) | Python · PyQt5 | A lightweight desktop web browser with a clean, tabbed GUI |
+| [**Bhoot Escape Game**](https://github.com/sourabhxmishra/Bhoot_Escape_Game) | Python · pygame | A 2D escape game optimized for lower-end devices |
+| [**Go CRUD API**](https://github.com/sourabhxmishra/Go_CRUD_API) | Go · MySQL | A RESTful CRUD API built in Golang |
 
 ## 🏆 Recognitions
 - 🥇 **Spot Award** (2022–2023) — delivered the Quarterly Business Report ahead of schedule
@@ -61,8 +61,8 @@ I'm a **Data Engineer** with 5+ years of hands-on experience designing, developi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=somi-rpm&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somi-rpm&layout=compact&hide_border=true&title_color=2563eb" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sourabhxmishra&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhxmishra&layout=compact&hide_border=true&title_color=2563eb" alt="Top languages" />
 </p>
 
 ## 📫 Reach Me
@@ -71,6 +71,6 @@ I'm a **Data Engineer** with 5+ years of hands-on experience designing, developi
 - 📧 **Email:** [somidataengineer@gmail.com](mailto:somidataengineer@gmail.com)
 
 <!---
-somi-rpm/somi-rpm is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+sourabhxmishra/sourabhxmishra is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
 
