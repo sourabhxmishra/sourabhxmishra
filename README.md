@@ -13,7 +13,7 @@
 
 ---
 
-I'm a **Data Engineer** with 3+ years of hands-on experience designing, developing, and optimizing data pipelines. I build efficient, scalable data solutions with modern cloud tooling — turning raw data into insights that drive better decisions.
+I'm a **Data Engineer** with 5+ years of hands-on experience designing, developing, and optimizing data pipelines. I build efficient, scalable data solutions with modern cloud tooling — turning raw data into insights that drive better decisions.
 
 ## 🚀 About Me
 - 🔧 **Specialization:** Data Engineering · ETL · Data Pipeline Optimization · Cloud Solutions (Azure)
