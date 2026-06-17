@@ -67,7 +67,7 @@ I'm a **Data Engineer** with 5+ years of hands-on experience designing, developi
 
 ## 📫 Reach Me
 - 🌐 **Portfolio:** [sourabhxmishra.com](https://www.sourabhxmishra.com)
-- 💼 **LinkedIn:** [linkedin.com/in/somi96500](https://www.linkedin.com/in/somi96500)
+- 💼 **LinkedIn:** [linkedin.com/in/sourabhxmishra](https://www.linkedin.com/in/somi96500)
 - 📧 **Email:** [somidataengineer@gmail.com](mailto:somidataengineer@gmail.com)
 
 <!---
