@@ -42,15 +42,29 @@ I'm a **Data Engineer** with 5+ years of hands-on experience designing, developi
 - **Data & BI:** Power BI · Microsoft SQL Server · Data Modeling & Reporting
 - **DevOps & Automation:** CI/CD Pipelines · Azure DevOps · Power Automate · Power Apps · Git
 
-## 📊 Featured Projects
+## 📊 Featured Projects — Data Engineering
 
-| Project | Stack | What it does |
+Production-style data-engineering builds. **Every repo ships with Infrastructure-as-Code, a Mermaid architecture diagram, tests, a case study, and green CI** — so you can see it *works*, not just read about it.
+
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [**Developer Portfolio**](https://github.com/sourabhxmishra/sourabh-portfolio) · [live](https://www.sourabhxmishra.com) | React · TypeScript · Tailwind · Vercel | My personal portfolio — a fast single-page app with a serverless backend |
-| [**DevOps Insights Automation**](https://github.com/sourabhxmishra) | Azure SQL · Python · Function App · WIQL | Automated Azure DevOps backlog reporting + CI/CD that cut deploy time by 40% |
-| [**Somi Browser**](https://github.com/sourabhxmishra/somi_browser) | Python · PyQt5 | A lightweight desktop web browser with a clean, tabbed GUI |
-| [**Bhoot Escape Game**](https://github.com/sourabhxmishra/Bhoot_Escape_Game) | Python · pygame | A 2D escape game optimized for lower-end devices |
-| [**Go CRUD API**](https://github.com/sourabhxmishra/Go_CRUD_API) | Go · MySQL | A RESTful CRUD API built in Golang |
+| [**Microsoft Fabric — End-to-End**](https://github.com/sourabhxmishra/fabric-analytics-e2e) | OneLake medallion → **Direct Lake** semantic model → Power BI report → Data Activator alert — built live on Fabric | Microsoft Fabric · OneLake · Direct Lake · PySpark · Bicep |
+| [**Real-Time Lakehouse**](https://github.com/sourabhxmishra/real-time-lakehouse) | Event Hubs → Databricks medallion (Delta) → Fabric Direct Lake — exactly-once, watermarking, schema evolution | Event Hubs · Spark Structured Streaming · Delta · Databricks |
+| [**CDC → SCD Type 2 Warehouse**](https://github.com/sourabhxmishra/cdc-scd2-warehouse) | Incremental done right: watermarked CDC extract → **idempotent SCD2 MERGE** (pure-Python engine, tested in CI) | Python · Delta Lake · SQL · Bicep |
+| [**Spark Performance Optimization**](https://github.com/sourabhxmishra/spark-perf-optimization) | A measured tuning study — skew + broadcast + cache — with a **real before/after benchmark run in CI** | PySpark · AQE · Delta · GitHub Actions |
+| [**Metadata-Driven Ingestion Framework**](https://github.com/sourabhxmishra/metadata-driven-ingestion-framework) | Onboard any source in **one config row** — a metadata-driven medallion + SCD2 framework | Python · PySpark · Delta · Unity Catalog |
+| [**DataOps Lakehouse**](https://github.com/sourabhxmishra/dataops-lakehouse) | Broken data can't reach prod — PySpark unit tests, a **data-quality gate**, quarantine, and dev/test/prod approvals | PySpark · Delta · GitHub Actions · Terraform |
+| [**FinOps + Pipeline Observability**](https://github.com/sourabhxmishra/finops-observability) | One board for cost + reliability with **explainable anomaly detection** (seasonal MAD + Poisson) | Python · pandas · Bicep · Power BI |
+| [**Tableau → Power BI Converter**](https://github.com/sourabhxmishra/tableau-to-powerbi) | An **AST-based compiler** that converts Tableau calc fields to DAX / Power Query M + a validation report | Python · AST · DAX · TMDL |
+
+<details>
+<summary>🌐 Also — web & older projects</summary>
+
+- [**Developer Portfolio**](https://github.com/sourabhxmishra/sourabh-portfolio) · [live](https://www.sourabhxmishra.com) — React · TypeScript · Tailwind · Vercel
+- [**Somi Browser**](https://github.com/sourabhxmishra/somi_browser) — Python · PyQt5
+- [**Bhoot Escape Game**](https://github.com/sourabhxmishra/Bhoot_Escape_Game) — Python · pygame
+- [**Go CRUD API**](https://github.com/sourabhxmishra/Go_CRUD_API) — Go · MySQL
+</details>
 
 ## 🏆 Recognitions
 - 🥇 **Spot Award** (2022–2023) — delivered the Quarterly Business Report ahead of schedule
